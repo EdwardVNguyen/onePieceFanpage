@@ -125,9 +125,11 @@ img {
     font-weight: lighter;
 }
 .quoteSection .author{
-    margin: 10px 220px 60px 550px;
     font-weight: bold;
-}
+    text-align: right;
+    margin: 10px 220px 60px 0px;
+
+ }
 
 .container3 {
     background-color: #6366f1;
